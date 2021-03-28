@@ -30,8 +30,10 @@ GIT Command
 # 19.view all the merge conflicts : git diff
 # 20.view changes in base file : git diff --base <filename>
 #  21. delete remote branch : git push origin --delete master 
+ 
+------------------------------------------------------------------------------------------------------------------------
 
-Example: iPlus ISP war migration from source repo develop branch
+# Example: iPlus ISP war migration from source repo develop branch
 # git clone --single-branch -b develop https://bitbucket.sdlc.tota.com/scm/ius/iplus_abp2.git
 # git filter-branch --subdirectory-filter sims-core HEAD
 # git remote remove origin
@@ -47,8 +49,7 @@ git filter-branch --subdirectory-filter sims-prosing HEAD
 
 git clone --single-branch -b feature/scrum_dev_2003  https://bitbucket.sdlc.tota.com/scm/ius/iplus_abp2.git
 
-
- git commit -m "[IPLU-1459] upgraded with april release" -a
+git commit -m "[IPLU-1459] upgraded with april release" -a
 
 git commit -m "[IPLU-1023] iplus common updated from develop branch" DealReviewRuleHistoryDTO.java
 
