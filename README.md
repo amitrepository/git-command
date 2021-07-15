@@ -4,9 +4,9 @@ Git command : all userful command
 ______+++++++++++++++++++++++++++++++++++++++++++_______________________________
 
 
-History git
+HistorJJKSy git
 
-GIT Command
+GIJKST Command
 #################################################################################################
  <
  # 1.git clone branch :  git clone -b develop https://bitbucket.sdlc.tota.com
