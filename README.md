@@ -4,7 +4,7 @@ Git command : all userful command
 ______+++++++++++++++++++++++++++++++++++++++++++_______________________________
 
 
-HistorJJKSy git
+History
 
 Amit
 
